@@ -1,1 +1,1 @@
-print("Hola mundo")
+print("Kon'ichiwa sekai")
