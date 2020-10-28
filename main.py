@@ -1,1 +1,1 @@
-print("Hola crayola")
+print("Kon'ichiwa sekai")
